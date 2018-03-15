@@ -1,0 +1,1 @@
+Mettre le my_custom_stuff dans le cstrick custom 
