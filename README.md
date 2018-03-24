@@ -12,11 +12,6 @@ il faut pour l'instant ce n'est que disponible sur Windows
 des jeux en ascii morpion par exemple, ou bien des petit programme utilitaire, ou 
 tout trainer, cheats [J'en suis pas jusque la mais sa arrive doucement] 
 
-# SDL 
-**Les Programme SDL**, seront des programme avec une GUI ['Graphical User Interface'],
-sa pourra s'agir de jeux 2D, 3D[J'en suis pas encore la comme vous vous doutez bien].
-Ou bien des émulateur, des petite application graphique etc... pourquoi pas navigateur internet
-
 # SFML 
 # SDL 
 **Les Programme SFML**, seront des programme avec une GUI ['Graphical User Interface'],
